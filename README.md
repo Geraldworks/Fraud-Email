@@ -21,4 +21,5 @@ pip install -r requirements.txt
 ```
 
 ### Data Source
-Obtained from: https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data?select=CEAS_08.csv
+
+Obtained from: <https://www.kaggle.com/datasets/naserabdullahalam/phishing-email-dataset/data?select=CEAS_08.csv>
