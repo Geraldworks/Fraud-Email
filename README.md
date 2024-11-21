@@ -1,14 +1,11 @@
 # Fraud-Email
 
-Referencing the Setup for BT4103
+This repository contains the source code and data files used in our Fraud-Email detection project. `main.ipynb` is the entry point of our code.
 
-## Set Up
+## Set Up Instructions
 
 1. Clone this repository
-2. Set up environment
-
-3. Clone this repository
-4. Set up environment
+2. Set up the virtual environment
 
 ### Virtual Environment
 
